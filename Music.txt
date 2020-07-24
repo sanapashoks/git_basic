@@ -6,3 +6,4 @@ Third Commit in SmallFeature
 Fourth Commit in SmallFeature
 Fifth commit in smallfeature
 6th commit in smallfeature
+7th commit in smallfeature
