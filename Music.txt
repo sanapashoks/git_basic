@@ -3,3 +3,4 @@ Nothing!
 First Commit in small feature
 Second Commit in Small feature
 Third Commit in SmallFeature
+Fourth Commit in SmallFeature
