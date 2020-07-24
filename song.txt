@@ -1,9 +1,5 @@
+#Section 1
 Hello Worold!
 How are you buddy?
 Missed me?
 I missed you so much.
-<<<<<<< HEAD
-Ammend Line
-=======
-Line Added One More
->>>>>>> de1652aff7d6bed483b1a9c1cee906c5cc31525c
